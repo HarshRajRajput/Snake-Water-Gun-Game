@@ -6,6 +6,7 @@ The Snake Water Gun game is a classic hand game often played by two players, whe
 * **Water**: This choice beats Gun but is defeated by Snake.<br>
 * **Gun**: This choice beats Snake but is defeated by Water.<br>
 * **Draw** If both User and Computer choose the same choice, the result is a draw.<br><br>
+
 **(2) Rounds:**<br>
 * The game consists of multiple rounds. In each round, both the user and the computer simultaneously select one of the three options.<br>
 **(3) Winner Of the Game:**<br>
