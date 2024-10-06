@@ -9,12 +9,15 @@ The Snake Water Gun game is a classic hand game often played by two players, whe
 
 **(2) Rounds:**<br>
 * The game consists of multiple rounds. In each round, both the user and the computer simultaneously select one of the three options.<br>
+
 **(3) Winner Of the Game:**<br>
 *  Winner are awarded based on the outcomes:<br>
 * If the user’s choice beats the computer’s choice, the user Wins the game.<br>
 * If the computer’s choice beats the user’s choice, the computer Wins the game.<br>
 * If both players choose the same option, the round is a tie, and the game is a draw.<br>
+
 # Strategy:
 * Players can develop strategies based on the patterns of their opponent's choices. The game encourages quick thinking and adaptability as players try to outsmart the computer's algorithm.
+
 # Conclusion:
-* The Snake Water Gun game offers a fun way to test your decision-making skills against a computer opponent, making it a popular choice for casual gaming. Its simplicity and strategic depth provide an engaging experience for players of all ages
+* The Snake Water Gun game offers a fun way to test your decision-making skills against a computer opponent, making it a popular choice for casual gaming. Its simplicity and strategic depth provide an engaging experience for players of all ages.
